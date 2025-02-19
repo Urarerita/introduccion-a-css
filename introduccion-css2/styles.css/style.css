@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(184, 63, 221);
+}
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: rgb(189, 129, 245);
+}
+table{
+    color: white;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #222;
+    color: white;
+}
